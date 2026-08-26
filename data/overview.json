@@ -1,0 +1,127 @@
+{
+ "generatedAt": "2026-11-14T19:51:04+00:00",
+ "bridges": [
+  {
+   "key": "tarnished",
+   "name": "Tarnished",
+   "label": "0xDdFc",
+   "cash": 1483.16,
+   "mtm": 635.51,
+   "total": 2118.67,
+   "botMtm": 635.51,
+   "venueMtm": null,
+   "dayDelta": 50.4,
+   "openCount": 40,
+   "equity30d": [
+    1230.84,
+    1297.03,
+    1240.45,
+    1287.63,
+    1275.44,
+    1280.54,
+    1162.65,
+    1620.04,
+    1553.7,
+    1196.93,
+    1130.48,
+    1154.37,
+    1452.26,
+    750.99,
+    1906.58,
+    1999.73,
+    1936.74,
+    2012.93,
+    1590.14,
+    2030.19,
+    2082.75,
+    2134.62,
+    2201.8,
+    2218.73,
+    2173.68,
+    2079.17,
+    2091.43,
+    2067.17,
+    2068.27,
+    2118.67
+   ],
+   "paused": false
+  },
+  {
+   "key": "thorsday",
+   "name": "Th0rsday",
+   "label": "0x17d7",
+   "cash": 0.0,
+   "mtm": 0.0,
+   "total": 0.0,
+   "botMtm": 0.0,
+   "venueMtm": null,
+   "dayDelta": 0.0,
+   "openCount": 0,
+   "equity30d": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "paused": true
+  }
+ ],
+ "health": [
+  {
+   "label": "Killswitches",
+   "status": "ok",
+   "detail": "no trips in 36h"
+  },
+  {
+   "label": "Parked lanes",
+   "status": "ok",
+   "detail": "88 flagged off: L_5e6e, L_5e6ecs, L_9d16, L_ariel, L_csbbb, L_dia10, L_dia28, L_dia5, L_e922, L_froh, L_harrisonc, L_hita, L_ic4, L_ic4cfb, L_ic4nba, L_ic4nhl, L_ic4ufc, L_jguitar, L_jumpcfb, L_jumper, L_kch, L_kchx, L_ldegen, L_pleas, L_royale, L_royale_ip, L_rusik, L_soicy, L_trotz, L_vilkaz, L_wally, P_e922, P_harrisonc, P_ic4, P_soicy, P_vilkaz, P_wally, S_wally, aa08, alecss, b25, b25s, b8c8, betdge, c63amg, chacha, crinkledaces, cyber, danngl, diigg, drunk6k, e922, ethanaz, f_csbbb, f_e922, f_gool, f_harrisonc, f_ic4, f_iceington, f_soicy, f_takeor, f_tkd44, f_vilkaz, f_wally, ic4, ic4ml, kosh, lpcap, mmesh, mythos, nflimag, paa08, pvoid, rollo, royale, rusik, snp02, snp19, soicy, stav, stony, talvez, tkd44, tkd44s, v760, valibb, vilkaz, yesm"
+  },
+  {
+   "label": "Watchdog",
+   "status": "ok",
+   "detail": "watchdog ok @ 19:50:59Z"
+  },
+  {
+   "label": "Daemons",
+   "status": "ok",
+   "detail": "3 / 3 up"
+  },
+  {
+   "label": "Route",
+   "status": "ok",
+   "detail": "Mac \u00b7 VPN SE"
+  },
+  {
+   "label": "Stale lots (killed workers)",
+   "status": "warn",
+   "detail": "4 resolved, unbooked: rollo Will AS Nancy-Lorraine win o $33; rollo Will West Ham United FC win  $5; mythos LoL: G2 Esports vs Karmine C $60; cyber Dota 2: Two Move vs Inner Ci $60"
+  }
+ ]
+}
