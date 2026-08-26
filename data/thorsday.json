@@ -1,0 +1,977 @@
+{
+ "generatedAt": "2026-09-16T02:14:06+00:00",
+ "trades": [
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: San Diego Padres (-2.5) \u2014 San Diego Padres",
+   "entry": 0.44,
+   "now": 0.43,
+   "size": 10.12,
+   "hisSize": 530.71,
+   "mtm": -0.64,
+   "ageMin": 3,
+   "ts": 1789524674,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Boston Red Sox vs. Texas Rangers: O/U 9.5 \u2014 Under",
+   "entry": 0.65,
+   "now": 0.63,
+   "size": 6.7,
+   "hisSize": 346.49,
+   "mtm": -0.37,
+   "ageMin": 9,
+   "ts": 1789524314,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "San Francisco Giants vs. St. Louis Cardinals \u2014 San Francisco Giants",
+   "entry": 0.95,
+   "now": 0.94,
+   "size": 119.31,
+   "hisSize": 5962.39,
+   "mtm": -1.69,
+   "ageMin": 44,
+   "ts": 1789522250,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Atlanta Braves vs. Chicago Cubs: O/U 7.5 \u2014 Under",
+   "entry": 0.6,
+   "now": 0.52,
+   "size": 8.06,
+   "hisSize": 402.55,
+   "mtm": -1.31,
+   "ageMin": 48,
+   "ts": 1789521991,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Atlanta Braves vs. Chicago Cubs \u2014 Chicago Cubs",
+   "entry": 0.711,
+   "now": 0.69,
+   "size": 127.05,
+   "hisSize": 6366.36,
+   "mtm": -6.37,
+   "ageMin": 65,
+   "ts": 1789520956,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Detroit Tigers vs. Toronto Blue Jays: O/U 9.5 \u2014 Under",
+   "entry": 0.68,
+   "now": 0.66,
+   "size": 13.3,
+   "hisSize": 671.22,
+   "mtm": -0.7,
+   "ageMin": 174,
+   "ts": 1789514400,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Chicago White Sox vs. Cleveland Guardians \u2014 Chicago White Sox",
+   "entry": 0.383,
+   "now": 0.0,
+   "size": 40.13,
+   "mtm": -41.82,
+   "ageMin": 103,
+   "ts": 1789523677,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Milwaukee Brewers (-3.5) \u2014 Milwaukee Brewers",
+   "entry": 0.63,
+   "now": 1.0,
+   "size": 10.4,
+   "mtm": 5.83,
+   "ageMin": 109,
+   "ts": 1789524321,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Cleveland Guardians (-1.5) \u2014 Chicago White Sox",
+   "entry": 0.56,
+   "now": 1.0,
+   "size": 8.12,
+   "mtm": 6.12,
+   "ageMin": 112,
+   "ts": 1789523677,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Cleveland Guardians (-2.5) \u2014 Chicago White Sox",
+   "entry": 0.63,
+   "now": 1.0,
+   "size": 45.52,
+   "mtm": 25.49,
+   "ageMin": 113,
+   "ts": 1789523677,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Milwaukee Brewers (-1.5) \u2014 Milwaukee Brewers",
+   "entry": 0.54,
+   "now": 1.0,
+   "size": 33.6,
+   "mtm": 27.51,
+   "ageMin": 129,
+   "ts": 1789524321,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Athletics vs. Tampa Bay Rays: O/U 7.5 \u2014 Under",
+   "entry": 0.675,
+   "now": 1.0,
+   "size": 27.8,
+   "mtm": 12.78,
+   "ageMin": 130,
+   "ts": 1789521874,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Washington Nationals (-1.5) \u2014 Philadelphia Phillies",
+   "entry": 0.82,
+   "now": 0.0,
+   "size": 16.8,
+   "mtm": -17.02,
+   "ageMin": 150,
+   "ts": 1789522476,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5 \u2014 Over",
+   "entry": 0.51,
+   "now": 0.0,
+   "size": 11.66,
+   "mtm": -12.07,
+   "ageMin": 161,
+   "ts": 1789522475,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Los Angeles Dodgers vs. Cincinnati Reds \u2014 Cincinnati Reds",
+   "entry": 0.268,
+   "now": 0.0,
+   "size": 21.04,
+   "mtm": -22.14,
+   "ageMin": 172,
+   "ts": 1789522474,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Athletics vs. Tampa Bay Rays: O/U 8.5 \u2014 Under",
+   "entry": 0.65,
+   "now": 1.0,
+   "size": 15.41,
+   "mtm": 7.91,
+   "ageMin": 193,
+   "ts": 1789521874,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "Elche CF vs. Real Madrid CF: O/U 2.5 \u2014 Under",
+   "entry": 0.33,
+   "now": 0.0,
+   "size": 14.52,
+   "mtm": -15.22,
+   "ageMin": 313,
+   "ts": 1789509229,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Real Madrid CF leading at halftime? \u2014 No",
+   "entry": 0.46,
+   "now": 0.0,
+   "size": 7.68,
+   "mtm": -7.98,
+   "ageMin": 380,
+   "ts": 1789509228,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Will Real Madrid CF win on 2026-09-15? \u2014 No",
+   "entry": 0.19,
+   "now": 0.0,
+   "size": 8.4,
+   "mtm": -8.89,
+   "ageMin": 384,
+   "ts": 1789509227,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "ELC:ML",
+   "market": "Will Middlesbrough FC win on 2026-09-08? \u2014 No",
+   "entry": 0.506,
+   "now": 1.0,
+   "size": 59.46,
+   "mtm": 55.89,
+   "ageMin": 435,
+   "ts": 1789512229,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Will Rayo Vallecano de Madrid vs. RCD Espanyol de Barcelona end in a draw? \u2014 No",
+   "entry": 0.78,
+   "now": 1.0,
+   "size": 22.68,
+   "mtm": 6.04,
+   "ageMin": 453,
+   "ts": 1789500815,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "Rayo Vallecano de Madrid vs. RCD Espanyol de Barcelona: O/U 3.5 \u2014 Under",
+   "entry": 0.47,
+   "now": 1.0,
+   "size": 7.68,
+   "mtm": 8.37,
+   "ageMin": 457,
+   "ts": 1789500216,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Will Valencia CF win on 2026-09-15? \u2014 No",
+   "entry": 0.796,
+   "now": 0.0,
+   "size": 34.4,
+   "mtm": -34.91,
+   "ageMin": 467,
+   "ts": 1789503817,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Miami Marlins vs. Arizona Diamondbacks \u2014 Arizona Diamondbacks",
+   "entry": 0.44,
+   "now": 1.0,
+   "size": 14.4,
+   "mtm": 17.75,
+   "ageMin": 1368,
+   "ts": 1789449142,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Miami Marlins vs. Arizona Diamondbacks: O/U 13.5 \u2014 Under",
+   "entry": 0.619,
+   "now": 0.0,
+   "size": 33.24,
+   "mtm": -34.15,
+   "ageMin": 1370,
+   "ts": 1789449142,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Seattle Mariners vs. Los Angeles Angels: O/U 11.5 \u2014 Under",
+   "entry": 0.63,
+   "now": 1.0,
+   "size": 6.5,
+   "mtm": 3.64,
+   "ageMin": 1396,
+   "ts": 1789446740,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Seattle Mariners vs. Los Angeles Angels \u2014 Los Angeles Angels",
+   "entry": 0.629,
+   "now": 1.0,
+   "size": 25.95,
+   "mtm": 14.63,
+   "ageMin": 1417,
+   "ts": 1789446740,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Seattle Mariners vs. Los Angeles Angels: O/U 9.5 \u2014 Under",
+   "entry": 0.6,
+   "now": 0.0,
+   "size": 20.46,
+   "mtm": -21.05,
+   "ageMin": 1433,
+   "ts": 1789444936,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "San Francisco Giants vs. St. Louis Cardinals \u2014 St. Louis Cardinals",
+   "entry": 0.92,
+   "now": 1.0,
+   "size": 53.58,
+   "mtm": 4.35,
+   "ageMin": 1438,
+   "ts": 1789441331,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Broncos vs. Chiefs: O/U 45.5 \u2014 Over",
+   "entry": 0.442,
+   "now": 0.0,
+   "size": 64.19,
+   "mtm": -66.75,
+   "ageMin": 1448,
+   "ts": 1789450045,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Detroit Tigers vs. Toronto Blue Jays \u2014 Detroit Tigers",
+   "entry": 0.6,
+   "now": 1.0,
+   "size": 6.6,
+   "mtm": 4.21,
+   "ageMin": 1457,
+   "ts": 1789440128,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "New York Yankees vs. Minnesota Twins: O/U 5.5 \u2014 Under",
+   "entry": 0.72,
+   "now": 0.0,
+   "size": 23.68,
+   "mtm": -24.16,
+   "ageMin": 1490,
+   "ts": 1789439527,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "New York Yankees vs. Minnesota Twins: O/U 7.5 \u2014 Under",
+   "entry": 0.56,
+   "now": 0.0,
+   "size": 8.12,
+   "mtm": -8.38,
+   "ageMin": 1571,
+   "ts": 1789439527,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "New York Yankees vs. Minnesota Twins: O/U 8.5 \u2014 Under",
+   "entry": 0.61,
+   "now": 0.0,
+   "size": 12.6,
+   "mtm": -12.95,
+   "ageMin": 1574,
+   "ts": 1789439527,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Detroit Tigers vs. Toronto Blue Jays: O/U 7.5 \u2014 Over",
+   "entry": 0.59,
+   "now": 1.0,
+   "size": 15.6,
+   "mtm": 10.38,
+   "ageMin": 1597,
+   "ts": 1789437126,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Leeds United FC vs. Newcastle United FC: O/U 4.5 \u2014 EXIT",
+   "entry": 0.52,
+   "now": 0.81,
+   "size": 5.2,
+   "mtm": 2.79,
+   "ageMin": 1767,
+   "ts": 1789418836,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Will Real Betis Balompi\u00e9 win on 2026-09-14? \u2014 No",
+   "entry": 0.297,
+   "now": 0.0,
+   "size": 16.51,
+   "mtm": -17.35,
+   "ageMin": 1775,
+   "ts": 1789420901,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Leeds United FC vs. Newcastle United FC: O/U 4.5 \u2014 Under",
+   "entry": 0.52,
+   "now": 0.0,
+   "size": 6.46,
+   "mtm": -6.86,
+   "ageMin": 1808,
+   "ts": 1789420901,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Will Villarreal CF win on 2026-09-14? \u2014 No",
+   "entry": 0.57,
+   "now": 1.0,
+   "size": 20.06,
+   "mtm": 14.51,
+   "ageMin": 1835,
+   "ts": 1789420900,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "Villarreal CF vs. Real Betis Balompi\u00e9: O/U 3.5 \u2014 Over",
+   "entry": 0.5,
+   "now": 0.0,
+   "size": 17.71,
+   "mtm": -18.35,
+   "ageMin": 1842,
+   "ts": 1789420899,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:total",
+   "market": "Como 1907 vs. Parma Calcio 1913: O/U 2.5 \u2014 Over",
+   "entry": 0.377,
+   "now": 1.0,
+   "size": 21.08,
+   "mtm": 33.85,
+   "ageMin": 1915,
+   "ts": 1789411887,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:total",
+   "market": "Como 1907 vs. Parma Calcio 1913: 1st Half O/U 1.5 \u2014 Over",
+   "entry": 0.18,
+   "now": 0.0,
+   "size": 13.66,
+   "mtm": -14.47,
+   "ageMin": 1977,
+   "ts": 1789411887,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Cowboys vs. Giants: O/U 46.5 \u2014 Under",
+   "entry": 0.64,
+   "now": 0.0,
+   "size": 39.6,
+   "mtm": -40.63,
+   "ageMin": 2877,
+   "ts": 1789363522,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Cowboys vs. Giants: O/U 45.5 \u2014 Over",
+   "entry": 0.404,
+   "now": 1.0,
+   "size": 33.53,
+   "mtm": 47.94,
+   "ageMin": 2895,
+   "ts": 1789363522,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLS:ML",
+   "market": "Will San Diego FC win on 2026-09-13? \u2014 No",
+   "entry": 0.64,
+   "now": 1.0,
+   "size": 5.94,
+   "mtm": 3.19,
+   "ageMin": 2927,
+   "ts": 1789357204,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Packers vs. Vikings: O/U 54.5 \u2014 Under",
+   "entry": 0.76,
+   "now": 0.0,
+   "size": 60.06,
+   "mtm": -61.1,
+   "ageMin": 3115,
+   "ts": 1789343691,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Packers vs. Vikings: O/U 47.5 \u2014 Under",
+   "entry": 0.45,
+   "now": 0.0,
+   "size": 18.53,
+   "mtm": -19.26,
+   "ageMin": 3117,
+   "ts": 1789349701,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 \u2014 Under",
+   "entry": 0.76,
+   "now": 1.0,
+   "size": 9.36,
+   "mtm": 2.79,
+   "ageMin": 3211,
+   "ts": 1789336172,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:ML",
+   "market": "US Sassuolo Calcio vs. Juventus FC: Both Teams to Score \u2014 No",
+   "entry": 0.51,
+   "now": 0.0,
+   "size": 13.27,
+   "mtm": -13.74,
+   "ageMin": 3244,
+   "ts": 1789333770,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Los Angeles Dodgers vs. Miami Marlins: O/U 9.5 \u2014 Over",
+   "entry": 0.352,
+   "now": 1.0,
+   "size": 44.24,
+   "mtm": 79.47,
+   "ageMin": 3319,
+   "ts": 1789334369,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Los Angeles Dodgers vs. Miami Marlins: O/U 7.5 \u2014 Over",
+   "entry": 0.54,
+   "now": 1.0,
+   "size": 24.08,
+   "mtm": 19.72,
+   "ageMin": 3331,
+   "ts": 1789333769,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Los Angeles Dodgers vs. Miami Marlins: O/U 8.5 \u2014 Over",
+   "entry": 0.49,
+   "now": 1.0,
+   "size": 13.26,
+   "mtm": 13.31,
+   "ageMin": 3336,
+   "ts": 1789333769,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Ravens vs. Colts: O/U 63.5 \u2014 Over",
+   "entry": 0.67,
+   "now": 1.0,
+   "size": 83.49,
+   "mtm": 39.14,
+   "ageMin": 3344,
+   "ts": 1789337086,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Manchester United FC vs. Manchester City FC: O/U 1.5 \u2014 EXIT",
+   "entry": 0.67,
+   "now": 0.43,
+   "size": 21.44,
+   "mtm": -8.24,
+   "ageMin": 3421,
+   "ts": 1789319616,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "49ers vs. Rams: O/U 47.5 \u2014 Over",
+   "entry": 0.255,
+   "now": 0.0,
+   "size": 37.52,
+   "mtm": -39.54,
+   "ageMin": 7154,
+   "ts": 1789105174,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "49ers vs. Rams: O/U 42.5 \u2014 Over",
+   "entry": 0.61,
+   "now": 0.0,
+   "size": 78.83,
+   "mtm": -81.05,
+   "ageMin": 7185,
+   "ts": 1789105174,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "49ers vs. Rams: O/U 46.5 \u2014 Over",
+   "entry": 0.51,
+   "now": 0.0,
+   "size": 24.95,
+   "mtm": -25.83,
+   "ageMin": 7290,
+   "ts": 1789105174,
+   "targetStatus": "unknown",
+   "status": "settled"
+  }
+ ],
+ "sections": [
+  {
+   "section": "ELC:ML",
+   "realized7d": 185.41
+  },
+  {
+   "section": "BUN:total",
+   "realized7d": 127.8
+  },
+  {
+   "section": "LAL:total",
+   "realized7d": 99.24
+  },
+  {
+   "section": "MLB:total",
+   "realized7d": 81.72
+  },
+  {
+   "section": "CFB:ML",
+   "realized7d": 72.77
+  },
+  {
+   "section": "FL1:ML",
+   "realized7d": 64.22
+  },
+  {
+   "section": "ELC:total",
+   "realized7d": 37.34
+  },
+  {
+   "section": "MLS:total",
+   "realized7d": 8.31
+  },
+  {
+   "section": "SEA:total",
+   "realized7d": 7.26
+  },
+  {
+   "section": "MLS:ML",
+   "realized7d": 3.19
+  },
+  {
+   "section": "EPL:total",
+   "realized7d": -18.52
+  },
+  {
+   "section": "SEA:ML",
+   "realized7d": -19.92
+  },
+  {
+   "section": "CFB:total",
+   "realized7d": -20.86
+  },
+  {
+   "section": "FL1:total",
+   "realized7d": -21.61
+  },
+  {
+   "section": "EPL:ML",
+   "realized7d": -42.3
+  },
+  {
+   "section": "MLB:ML",
+   "realized7d": -96.95
+  },
+  {
+   "section": "BUN:ML",
+   "realized7d": -120.78
+  },
+  {
+   "section": "LAL:ML",
+   "realized7d": -123.02
+  },
+  {
+   "section": "NFL:total",
+   "realized7d": -247.08
+  }
+ ],
+ "sectionsByOrigin": {
+  "imaginary": [
+   {
+    "section": "ELC:ML",
+    "realized7d": 185.41
+   },
+   {
+    "section": "BUN:total",
+    "realized7d": 127.8
+   },
+   {
+    "section": "LAL:total",
+    "realized7d": 99.24
+   },
+   {
+    "section": "MLB:total",
+    "realized7d": 81.72
+   },
+   {
+    "section": "CFB:ML",
+    "realized7d": 72.77
+   },
+   {
+    "section": "FL1:ML",
+    "realized7d": 64.22
+   },
+   {
+    "section": "ELC:total",
+    "realized7d": 37.34
+   },
+   {
+    "section": "MLS:total",
+    "realized7d": 8.31
+   },
+   {
+    "section": "SEA:total",
+    "realized7d": 7.26
+   },
+   {
+    "section": "MLS:ML",
+    "realized7d": 3.19
+   },
+   {
+    "section": "EPL:total",
+    "realized7d": -18.52
+   },
+   {
+    "section": "SEA:ML",
+    "realized7d": -19.92
+   },
+   {
+    "section": "CFB:total",
+    "realized7d": -20.86
+   },
+   {
+    "section": "FL1:total",
+    "realized7d": -21.61
+   },
+   {
+    "section": "EPL:ML",
+    "realized7d": -42.3
+   },
+   {
+    "section": "MLB:ML",
+    "realized7d": -96.95
+   },
+   {
+    "section": "BUN:ML",
+    "realized7d": -120.78
+   },
+   {
+    "section": "LAL:ML",
+    "realized7d": -123.02
+   }
+  ],
+  "nflboost": [
+   {
+    "section": "NFL:total",
+    "realized7d": -247.08
+   }
+  ],
+  "wnbaprobe": [],
+  "wnbatot": []
+ },
+ "bench": [
+  {
+   "name": "swnba",
+   "detail": "wnba:total shadow (no-gate)",
+   "fillsDone": 181,
+   "fillsNeeded": 100,
+   "metric": "now +$428",
+   "wins": 94,
+   "losses": 87,
+   "lifetime": 428.1,
+   "openN": 0,
+   "paperNow": 428.1,
+   "profile": null,
+   "trades": []
+  }
+ ],
+ "origins": [
+  {
+   "origin": "wnbaprobe",
+   "lifetimeRealized": 1143.3,
+   "wins": 67,
+   "losses": 29,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 243,
+   "sinceTs": 1785896384
+  },
+  {
+   "origin": "wnbatot",
+   "lifetimeRealized": -19.39,
+   "wins": 7,
+   "losses": 8,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 26,
+   "sinceTs": 1787703820
+  },
+  {
+   "origin": "nflboost",
+   "lifetimeRealized": -524.31,
+   "wins": 10,
+   "losses": 12,
+   "realized7d": -247.08,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 52,
+   "sinceTs": 1787458313
+  },
+  {
+   "origin": "imaginary",
+   "lifetimeRealized": -2229.24,
+   "wins": 1262,
+   "losses": 851,
+   "realized7d": 223.3,
+   "openMtm": -11.07,
+   "openCount": 6,
+   "fills": 4362,
+   "sinceTs": 1782014293
+  }
+ ],
+ "accountingDrift": []
+}
