@@ -1,0 +1,151 @@
+{
+ "generatedAt": "2026-10-24T16:45:15+00:00",
+ "trades": [],
+ "tradesSince": 1792213200,
+ "sections": [],
+ "sectionsByOrigin": {
+  "imaginary": [],
+  "wnbaprobe": [],
+  "wnbatot": [],
+  "nflboost": []
+ },
+ "bench": [
+  {
+   "name": "swnba",
+   "detail": "wnba:total shadow (no-gate)",
+   "fillsDone": 223,
+   "fillsNeeded": 100,
+   "metric": "now \u2212$186",
+   "wins": 110,
+   "losses": 113,
+   "lifetime": -186.06,
+   "openN": 0,
+   "paperNow": -186.06,
+   "profile": null,
+   "trades": [
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Atlanta Dream vs. Golden State Valkyries: O/U 152.5 \u2014 Over",
+     "entry": 0.28,
+     "now": 0.0,
+     "size": 41.5,
+     "mtm": -43.65,
+     "ageMin": 6679,
+     "ts": 1792465226,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Atlanta Dream vs. Golden State Valkyries: O/U 150.5 \u2014 Over",
+     "entry": 0.25,
+     "now": 0.0,
+     "size": 16.74,
+     "mtm": -17.64,
+     "ageMin": 6653,
+     "ts": 1792465226,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Atlanta Dream vs. Golden State Valkyries: O/U 153.5 \u2014 Over",
+     "entry": 0.48,
+     "now": 0.0,
+     "size": 27.08,
+     "mtm": -28.09,
+     "ageMin": 9885,
+     "ts": 1792276652,
+     "targetStatus": "unknown",
+     "status": "settled"
+    }
+   ],
+   "tradesSince": 1791650818
+  }
+ ],
+ "origins": [
+  {
+   "origin": "wnbaprobe",
+   "lifetimeRealized": 1050.23,
+   "wins": 79,
+   "losses": 39,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 307,
+   "sinceTs": 1785896384,
+   "profile": "https://polymarket.com/profile/0x161a7f666ca49d592848cf415b42f49a84714103"
+  },
+  {
+   "origin": "wnbatot",
+   "lifetimeRealized": -94.88,
+   "wins": 7,
+   "losses": 11,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 30,
+   "sinceTs": 1787703820,
+   "profile": "https://polymarket.com/profile/0x161a7f666ca49d592848cf415b42f49a84714103"
+  },
+  {
+   "origin": "nflboost",
+   "lifetimeRealized": -865.6,
+   "wins": 29,
+   "losses": 31,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 98,
+   "sinceTs": 1787458313,
+   "profile": "https://polymarket.com/profile/0x161a7f666ca49d592848cf415b42f49a84714103"
+  },
+  {
+   "origin": "imaginary",
+   "lifetimeRealized": -3788.25,
+   "wins": 1451,
+   "losses": 982,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 4931,
+   "sinceTs": 1782014293,
+   "profile": "https://polymarket.com/profile/0x161a7f666ca49d592848cf415b42f49a84714103"
+  }
+ ],
+ "accountingDrift": [],
+ "paused": {
+  "since": "2026-09-28T03:09:18Z",
+  "rule": "Monday edge gate prints the check: his 30d PASS-cohort ROI >= FRICTION (2.0%) AND his 14d form >= FRICTION, on two consecutive scheduled Monday runs -> 'RESUME CONDITION MET'. Report only; resuming is Grant's call.",
+  "streak": 0,
+  "checks": [
+   {
+    "ts": 1790604346,
+    "roi30": -0.03,
+    "f14": -8.35,
+    "ok": false
+   },
+   {
+    "ts": 1791209139,
+    "roi30": -0.44,
+    "f14": -7.59,
+    "ok": false
+   },
+   {
+    "ts": 1791813944,
+    "roi30": -0.94,
+    "f14": 3.88,
+    "ok": false
+   },
+   {
+    "ts": 1792418741,
+    "roi30": -0.44,
+    "f14": -1.09,
+    "ok": false
+   }
+  ]
+ }
+}
