@@ -1,0 +1,1309 @@
+{
+ "generatedAt": "2026-09-13T07:15:37+00:00",
+ "trades": [
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "New Mexico State vs. Hawai'i \u2014 Hawaii",
+   "entry": 0.736,
+   "now": 0.75,
+   "size": 94.15,
+   "hisSize": 4721.34,
+   "mtm": 0.03,
+   "ageMin": 181,
+   "ts": 1789272865,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Montana State vs. Nevada \u2014 Montana State",
+   "entry": 0.937,
+   "now": 1.0,
+   "size": 90.38,
+   "mtm": 5.66,
+   "ageMin": 143,
+   "ts": 1789280276,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Georgia Southern vs. Clemson \u2014 Clemson",
+   "entry": 0.946,
+   "now": 1.0,
+   "size": 17.46,
+   "mtm": 0.93,
+   "ageMin": 174,
+   "ts": 1789277880,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:total",
+   "market": "Arkansas vs. Utah: O/U 57.5 \u2014 Over",
+   "entry": 0.47,
+   "now": 0.0,
+   "size": 20.09,
+   "mtm": -20.86,
+   "ageMin": 175,
+   "ts": 1789280281,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Louisiana vs. USC \u2014 USC",
+   "entry": 0.956,
+   "now": 1.0,
+   "size": 8.73,
+   "mtm": 0.37,
+   "ageMin": 189,
+   "ts": 1789281479,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "North Dakota State vs. Air Force \u2014 North Dakota State",
+   "entry": 0.91,
+   "now": 1.0,
+   "size": 93.0,
+   "mtm": 8.6,
+   "ageMin": 190,
+   "ts": 1789278472,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Texas Southern vs. UTEP \u2014 UTEP",
+   "entry": 0.954,
+   "now": 1.0,
+   "size": 88.84,
+   "mtm": 4.03,
+   "ageMin": 281,
+   "ts": 1789276070,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "South Alabama vs. Tulane \u2014 South Alabama",
+   "entry": 0.61,
+   "now": 0.0,
+   "size": 6.93,
+   "mtm": -7.12,
+   "ageMin": 323,
+   "ts": 1789267663,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Middle Tennessee vs. Marshall \u2014 Marshall",
+   "entry": 0.84,
+   "now": 1.0,
+   "size": 7.74,
+   "mtm": 1.39,
+   "ageMin": 324,
+   "ts": 1789268261,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Buffalo vs. Florida International \u2014 Florida International",
+   "entry": 0.96,
+   "now": 1.0,
+   "size": 90.21,
+   "mtm": 3.5,
+   "ageMin": 498,
+   "ts": 1789264059,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "UCF vs. Pittsburgh \u2014 Pittsburgh",
+   "entry": 0.94,
+   "now": 1.0,
+   "size": 7.76,
+   "mtm": 0.46,
+   "ageMin": 512,
+   "ts": 1789258651,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Memphis vs. Boise State \u2014 Boise State",
+   "entry": 0.75,
+   "now": 1.0,
+   "size": 19.75,
+   "mtm": 6.23,
+   "ageMin": 525,
+   "ts": 1789264658,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Northern Colorado vs. Wyoming \u2014 Northern Colorado",
+   "entry": 0.596,
+   "now": 0.0,
+   "size": 20.9,
+   "mtm": -21.51,
+   "ageMin": 539,
+   "ts": 1789258648,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Louisiana-Monroe vs. UAB \u2014 Louisiana-Monroe",
+   "entry": 0.27,
+   "now": 0.0,
+   "size": 6.38,
+   "mtm": -6.72,
+   "ageMin": 543,
+   "ts": 1789253894,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Arizona vs. BYU \u2014 BYU",
+   "entry": 0.773,
+   "now": 1.0,
+   "size": 57.1,
+   "mtm": 15.83,
+   "ageMin": 546,
+   "ts": 1789255650,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Los Angeles Dodgers vs. Miami Marlins: O/U 8.5 \u2014 Over",
+   "entry": 0.95,
+   "now": 0.0,
+   "size": 22.22,
+   "mtm": -22.3,
+   "ageMin": 549,
+   "ts": 1789255050,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Robert Morris vs. Akron \u2014 Akron",
+   "entry": 0.96,
+   "now": 1.0,
+   "size": 27.16,
+   "mtm": 1.05,
+   "ageMin": 586,
+   "ts": 1789254445,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Kansas City Royals vs. Boston Red Sox \u2014 Boston Red Sox",
+   "entry": 0.67,
+   "now": 1.0,
+   "size": 11.73,
+   "mtm": 5.5,
+   "ageMin": 593,
+   "ts": 1789253890,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Duke vs. Illinois \u2014 Illinois",
+   "entry": 0.74,
+   "now": 0.0,
+   "size": 16.94,
+   "mtm": -17.26,
+   "ageMin": 634,
+   "ts": 1789255648,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Maryland vs. UConn \u2014 Maryland",
+   "entry": 0.59,
+   "now": 1.0,
+   "size": 25.42,
+   "mtm": 16.91,
+   "ageMin": 671,
+   "ts": 1789254450,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Mississippi State vs. Minnesota \u2014 Mississippi State",
+   "entry": 0.61,
+   "now": 1.0,
+   "size": 14.95,
+   "mtm": 9.14,
+   "ageMin": 675,
+   "ts": 1789255646,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Utah State vs. Washington \u2014 Washington",
+   "entry": 0.928,
+   "now": 1.0,
+   "size": 6.65,
+   "mtm": 0.48,
+   "ageMin": 680,
+   "ts": 1789255046,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Colgate vs. Central Michigan \u2014 Central Michigan",
+   "entry": 0.895,
+   "now": 1.0,
+   "size": 93.38,
+   "mtm": 10.2,
+   "ageMin": 682,
+   "ts": 1789244762,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Alabama vs. Kentucky \u2014 Kentucky",
+   "entry": 0.24,
+   "now": 0.0,
+   "size": 13.78,
+   "mtm": -14.53,
+   "ageMin": 687,
+   "ts": 1789256245,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:total",
+   "market": "Atalanta BC vs. Cagliari Calcio: O/U 3.5 \u2014 Over",
+   "entry": 0.446,
+   "now": 0.0,
+   "size": 11.65,
+   "mtm": -12.12,
+   "ageMin": 688,
+   "ts": 1789247761,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Stony Brook vs. Ball State \u2014 Ball State",
+   "entry": 0.93,
+   "now": 1.0,
+   "size": 43.71,
+   "mtm": 3.07,
+   "ageMin": 746,
+   "ts": 1789249564,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Oklahoma vs. Michigan \u2014 Michigan",
+   "entry": 0.71,
+   "now": 1.0,
+   "size": 93.44,
+   "mtm": 36.21,
+   "ageMin": 795,
+   "ts": 1789243554,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Spread: Kansas State (-24.5) \u2014 Washington State",
+   "entry": 0.51,
+   "now": 0.0,
+   "size": 9.54,
+   "mtm": -9.88,
+   "ageMin": 836,
+   "ts": 1789245355,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Wofford vs. Kent State \u2014 Kent State",
+   "entry": 0.87,
+   "now": 1.0,
+   "size": 35.1,
+   "mtm": 4.92,
+   "ageMin": 859,
+   "ts": 1789242350,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "FL1:total",
+   "market": "RC Strasbourg Alsace vs. AS Monaco FC: O/U 2.5 \u2014 Over",
+   "entry": 0.32,
+   "now": 0.0,
+   "size": 8.19,
+   "mtm": -8.59,
+   "ageMin": 922,
+   "ts": 1789234544,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "ELC:total",
+   "market": "Blackburn Rovers FC vs. Millwall FC: O/U 3.5 \u2014 Over",
+   "entry": 0.288,
+   "now": 1.0,
+   "size": 10.46,
+   "mtm": 25.37,
+   "ageMin": 931,
+   "ts": 1789236345,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Liverpool FC vs. Fulham FC: O/U 1.5 \u2014 Over",
+   "entry": 0.202,
+   "now": 0.0,
+   "size": 16.0,
+   "mtm": -16.92,
+   "ageMin": 946,
+   "ts": 1789229737,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BUN:total",
+   "market": "1. FSV Mainz 05 vs. Eintracht Frankfurt: O/U 3.5 \u2014 Over",
+   "entry": 0.303,
+   "now": 1.0,
+   "size": 44.0,
+   "mtm": 99.14,
+   "ageMin": 958,
+   "ts": 1789227929,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:ML",
+   "market": "Will Chelsea FC win on 2026-09-12? \u2014 No",
+   "entry": 0.6,
+   "now": 1.0,
+   "size": 6.82,
+   "mtm": 4.35,
+   "ageMin": 963,
+   "ts": 1789236344,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BUN:ML",
+   "market": "Will Bayer 04 Leverkusen win on 2026-09-12? \u2014 No",
+   "entry": 0.88,
+   "now": 1.0,
+   "size": 8.9,
+   "mtm": 1.14,
+   "ageMin": 969,
+   "ts": 1789227935,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Liverpool FC vs. Fulham FC: O/U 2.5 \u2014 Over",
+   "entry": 0.3,
+   "now": 0.0,
+   "size": 6.08,
+   "mtm": -6.39,
+   "ageMin": 992,
+   "ts": 1789229736,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "AFC Bournemouth vs. Brentford FC: O/U 2.5 \u2014 Over",
+   "entry": 0.471,
+   "now": 1.0,
+   "size": 43.73,
+   "mtm": 47.4,
+   "ageMin": 1014,
+   "ts": 1789239344,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "ELC:ML",
+   "market": "Will Bristol City FC win on 2026-09-12? \u2014 No",
+   "entry": 0.745,
+   "now": 1.0,
+   "size": 124.71,
+   "mtm": 40.38,
+   "ageMin": 1015,
+   "ts": 1789237541,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:ML",
+   "market": "Spread: Crystal Palace FC (-1.5) \u2014 Crystal Palace FC",
+   "entry": 0.42,
+   "now": 0.0,
+   "size": 13.2,
+   "mtm": -13.75,
+   "ageMin": 1019,
+   "ts": 1789240546,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:ML",
+   "market": "Chelsea FC vs. Hull City AFC: Both Teams to Score \u2014 No",
+   "entry": 0.46,
+   "now": 0.0,
+   "size": 18.72,
+   "mtm": -19.45,
+   "ageMin": 1027,
+   "ts": 1789236340,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BUN:ML",
+   "market": "Will Eintracht Frankfurt win on 2026-09-12? \u2014 No",
+   "entry": 0.504,
+   "now": 0.0,
+   "size": 121.58,
+   "mtm": -125.92,
+   "ageMin": 1028,
+   "ts": 1789228529,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "SMU vs. Florida State \u2014 EXIT",
+   "entry": 0.36,
+   "now": 0.25,
+   "size": 2.52,
+   "mtm": -0.86,
+   "ageMin": 7484,
+   "ts": 1788834698,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "SMU vs. Florida State \u2014 EXIT",
+   "entry": 0.36,
+   "now": 0.25,
+   "size": 7.56,
+   "mtm": -2.59,
+   "ageMin": 7485,
+   "ts": 1788834662,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Los Angeles Angels vs. Boston Red Sox: O/U 9.5 \u2014 EXIT",
+   "entry": 0.71,
+   "now": 0.55,
+   "size": 3.55,
+   "mtm": -0.89,
+   "ageMin": 7929,
+   "ts": 1788808033,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "Getafe CF vs. RC Celta de Vigo: O/U 2.5 \u2014 EXIT",
+   "entry": 0.314,
+   "now": 0.43,
+   "size": 4.08,
+   "mtm": 1.28,
+   "ageMin": 7953,
+   "ts": 1788806562,
+   "targetStatus": "exited",
+   "status": "settled"
+  }
+ ],
+ "sections": [
+  {
+   "section": "MLB:total",
+   "realized7d": 225.65
+  },
+  {
+   "section": "BUN:total",
+   "realized7d": 140.93
+  },
+  {
+   "section": "ELC:ML",
+   "realized7d": 139.47
+  },
+  {
+   "section": "MLB:ML",
+   "realized7d": 133.38
+  },
+  {
+   "section": "CFB:ML",
+   "realized7d": 87.29
+  },
+  {
+   "section": "LAL:total",
+   "realized7d": 56.4
+  },
+  {
+   "section": "SEA:ML",
+   "realized7d": 54.29
+  },
+  {
+   "section": "FL1:ML",
+   "realized7d": 54.19
+  },
+  {
+   "section": "EPL:total",
+   "realized7d": 30.35
+  },
+  {
+   "section": "LAL:ML",
+   "realized7d": 18.74
+  },
+  {
+   "section": "MLS:total",
+   "realized7d": 8.31
+  },
+  {
+   "section": "ELC:total",
+   "realized7d": 3.9
+  },
+  {
+   "section": "FL1:total",
+   "realized7d": -21.61
+  },
+  {
+   "section": "EPL:ML",
+   "realized7d": -26.61
+  },
+  {
+   "section": "CFB:total",
+   "realized7d": -27.98
+  },
+  {
+   "section": "BUN:ML",
+   "realized7d": -67.33
+  },
+  {
+   "section": "SEA:total",
+   "realized7d": -122.86
+  }
+ ],
+ "sectionsByOrigin": {
+  "imaginary": [
+   {
+    "section": "MLB:total",
+    "realized7d": 225.65
+   },
+   {
+    "section": "BUN:total",
+    "realized7d": 140.93
+   },
+   {
+    "section": "ELC:ML",
+    "realized7d": 139.47
+   },
+   {
+    "section": "MLB:ML",
+    "realized7d": 133.38
+   },
+   {
+    "section": "CFB:ML",
+    "realized7d": 87.29
+   },
+   {
+    "section": "LAL:total",
+    "realized7d": 56.4
+   },
+   {
+    "section": "SEA:ML",
+    "realized7d": 54.29
+   },
+   {
+    "section": "FL1:ML",
+    "realized7d": 54.19
+   },
+   {
+    "section": "EPL:total",
+    "realized7d": 30.35
+   },
+   {
+    "section": "LAL:ML",
+    "realized7d": 18.74
+   },
+   {
+    "section": "MLS:total",
+    "realized7d": 8.31
+   },
+   {
+    "section": "ELC:total",
+    "realized7d": 3.9
+   },
+   {
+    "section": "FL1:total",
+    "realized7d": -21.61
+   },
+   {
+    "section": "EPL:ML",
+    "realized7d": -26.61
+   },
+   {
+    "section": "CFB:total",
+    "realized7d": -27.98
+   },
+   {
+    "section": "BUN:ML",
+    "realized7d": -67.33
+   },
+   {
+    "section": "SEA:total",
+    "realized7d": -122.86
+   }
+  ],
+  "wnbaprobe": []
+ },
+ "bench": [
+  {
+   "name": "swnba",
+   "detail": "wnba:total shadow (no-gate)",
+   "fillsDone": 181,
+   "fillsNeeded": 100,
+   "metric": "now +$428",
+   "wins": 94,
+   "losses": 87,
+   "lifetime": 428.1,
+   "openN": 0,
+   "paperNow": 428.1,
+   "profile": null,
+   "trades": [
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.45,
+     "size": 37.41,
+     "mtm": -14.72,
+     "ageMin": 19114,
+     "ts": 1788136933,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 1.16,
+     "mtm": -0.33,
+     "ageMin": 19114,
+     "ts": 1788136928,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 1.16,
+     "mtm": -0.33,
+     "ageMin": 19114,
+     "ts": 1788136928,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 12.93,
+     "mtm": -3.64,
+     "ageMin": 19114,
+     "ts": 1788136927,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 12.93,
+     "mtm": -3.64,
+     "ageMin": 19114,
+     "ts": 1788136927,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 11.25,
+     "mtm": -3.17,
+     "ageMin": 19114,
+     "ts": 1788136927,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 11.25,
+     "mtm": -3.17,
+     "ageMin": 19114,
+     "ts": 1788136927,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 11.95,
+     "mtm": -3.36,
+     "ageMin": 19114,
+     "ts": 1788136927,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 11.95,
+     "mtm": -3.36,
+     "ageMin": 19114,
+     "ts": 1788136927,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 21.88,
+     "mtm": -6.16,
+     "ageMin": 19114,
+     "ts": 1788136926,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 21.88,
+     "mtm": -6.16,
+     "ageMin": 19114,
+     "ts": 1788136926,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 9.34,
+     "mtm": -2.63,
+     "ageMin": 19114,
+     "ts": 1788136926,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 9.34,
+     "mtm": -2.63,
+     "ageMin": 19114,
+     "ts": 1788136926,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 16.94,
+     "mtm": -4.77,
+     "ageMin": 19114,
+     "ts": 1788136926,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.713,
+     "now": 0.53,
+     "size": 16.94,
+     "mtm": -4.77,
+     "ageMin": 19114,
+     "ts": 1788136926,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 10.34,
+     "mtm": -3.01,
+     "ageMin": 19114,
+     "ts": 1788136892,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 10.34,
+     "mtm": -3.01,
+     "ageMin": 19114,
+     "ts": 1788136892,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 7.93,
+     "mtm": -2.31,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 7.93,
+     "mtm": -2.31,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 15.12,
+     "mtm": -4.41,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 15.12,
+     "mtm": -4.41,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 12.81,
+     "mtm": -3.73,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 12.81,
+     "mtm": -3.73,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 11.11,
+     "mtm": -3.24,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 11.11,
+     "mtm": -3.24,
+     "ageMin": 19114,
+     "ts": 1788136891,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 3.98,
+     "mtm": -1.16,
+     "ageMin": 19114,
+     "ts": 1788136890,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 3.98,
+     "mtm": -1.16,
+     "ageMin": 19114,
+     "ts": 1788136890,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 0.97,
+     "mtm": -0.28,
+     "ageMin": 19114,
+     "ts": 1788136890,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 0.97,
+     "mtm": -0.28,
+     "ageMin": 19114,
+     "ts": 1788136890,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 22.08,
+     "mtm": -6.44,
+     "ageMin": 19114,
+     "ts": 1788136890,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 EXIT",
+     "entry": 0.78,
+     "now": 0.57,
+     "size": 22.08,
+     "mtm": -6.44,
+     "ageMin": 19114,
+     "ts": 1788136890,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 157.5 \u2014 EXIT",
+     "entry": 0.39,
+     "now": 0.36,
+     "size": 0.4,
+     "mtm": -0.05,
+     "ageMin": 19128,
+     "ts": 1788136047,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 157.5 \u2014 EXIT",
+     "entry": 0.39,
+     "now": 0.36,
+     "size": 0.4,
+     "mtm": -0.05,
+     "ageMin": 19128,
+     "ts": 1788136047,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Los Angeles Sparks vs. Seattle Storm: O/U 172.5 \u2014 EXIT",
+     "entry": 0.51,
+     "now": 0.37,
+     "size": 4.0,
+     "mtm": -1.23,
+     "ageMin": 19264,
+     "ts": 1788127930,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Los Angeles Sparks vs. Seattle Storm: O/U 172.5 \u2014 EXIT",
+     "entry": 0.51,
+     "now": 0.37,
+     "size": 4.0,
+     "mtm": -1.23,
+     "ageMin": 19264,
+     "ts": 1788127930,
+     "targetStatus": "exited",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 159.5 \u2014 Over",
+     "entry": 0.41,
+     "now": 0.0,
+     "size": 57.18,
+     "mtm": -59.58,
+     "ageMin": 19182,
+     "ts": 1788162966,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 157.5 \u2014 Over",
+     "entry": 0.39,
+     "now": 0.0,
+     "size": 3.2,
+     "mtm": -3.38,
+     "ageMin": 19167,
+     "ts": 1788162966,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Golden State Valkyries vs. Portland Fire: O/U 158.5 \u2014 Under",
+     "entry": 0.57,
+     "now": 1.0,
+     "size": 225.68,
+     "mtm": 163.26,
+     "ageMin": 19113,
+     "ts": 1788162966,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Los Angeles Sparks vs. Seattle Storm: O/U 172.5 \u2014 Over",
+     "entry": 0.34,
+     "now": 0.0,
+     "size": 4.99,
+     "mtm": -5.23,
+     "ageMin": 19257,
+     "ts": 1788132941,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Minnesota Lynx vs. Atlanta Dream: O/U 175.5 \u2014 Under",
+     "entry": 0.498,
+     "now": 1.0,
+     "size": 31.62,
+     "mtm": 30.77,
+     "ageMin": 19438,
+     "ts": 1788129336,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Minnesota Lynx vs. Atlanta Dream: O/U 178.5 \u2014 Under",
+     "entry": 0.568,
+     "now": 1.0,
+     "size": 70.36,
+     "mtm": 51.43,
+     "ageMin": 19383,
+     "ts": 1788126334,
+     "targetStatus": "unknown",
+     "status": "settled"
+    }
+   ]
+  }
+ ],
+ "origins": [
+  {
+   "origin": "wnbaprobe",
+   "lifetimeRealized": 1143.3,
+   "wins": 67,
+   "losses": 29,
+   "realized7d": 0,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 243,
+   "sinceTs": 1785896384
+  },
+  {
+   "origin": "imaginary",
+   "lifetimeRealized": -2339.94,
+   "wins": 1233,
+   "losses": 827,
+   "realized7d": 686.5,
+   "openMtm": 0.03,
+   "openCount": 1,
+   "fills": 4272,
+   "sinceTs": 1782014293
+  }
+ ],
+ "accountingDrift": []
+}
