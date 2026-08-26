@@ -1,0 +1,127 @@
+{
+ "generatedAt": "2026-10-04T03:03:40+00:00",
+ "bridges": [
+  {
+   "key": "tarnished",
+   "name": "Tarnished",
+   "label": "0xDdFc",
+   "cash": 421.99,
+   "mtm": 96.62,
+   "total": 518.61,
+   "botMtm": 211.19,
+   "venueMtm": 96.62,
+   "dayDelta": -29.67,
+   "openCount": 23,
+   "equity30d": [
+    716.09,
+    760.05,
+    577.7,
+    693.59,
+    650.04,
+    684.21,
+    830.58,
+    683.09,
+    571.4,
+    612.63,
+    343.83,
+    865.1,
+    863.18,
+    824.22,
+    704.57,
+    698.17,
+    686.76,
+    692.41,
+    687.84,
+    688.53,
+    683.5,
+    718.32,
+    661.56,
+    608.49,
+    602.13,
+    582.61,
+    573.86,
+    546.61,
+    548.28,
+    518.61
+   ],
+   "paused": false
+  },
+  {
+   "key": "thorsday",
+   "name": "Th0rsday",
+   "label": "0x17d7",
+   "cash": 888.91,
+   "mtm": 0.0,
+   "total": 888.91,
+   "botMtm": 0.0,
+   "venueMtm": 0.0,
+   "dayDelta": 0.0,
+   "openCount": 0,
+   "equity30d": [
+    2146.89,
+    1953.91,
+    2300.14,
+    2454.08,
+    3005.42,
+    2808.43,
+    2566.45,
+    2629.04,
+    2630.13,
+    2693.61,
+    2753.09,
+    2524.14,
+    2560.27,
+    2841.91,
+    3028.93,
+    2683.22,
+    2539.09,
+    2382.09,
+    1924.35,
+    2007.37,
+    1495.76,
+    1535.93,
+    1012.46,
+    888.95,
+    888.91,
+    888.91,
+    888.91,
+    888.91,
+    888.91,
+    888.91
+   ],
+   "paused": true
+  }
+ ],
+ "health": [
+  {
+   "label": "Killswitches",
+   "status": "ok",
+   "detail": "no trips in 36h"
+  },
+  {
+   "label": "Parked lanes",
+   "status": "ok",
+   "detail": "35 flagged off: L_csbbb, L_harrisonc, L_ic4, L_vilkaz, L_wally, P_harrisonc, P_ic4, P_vilkaz, P_wally, S_wally, b8c8, cyber, danngl, diigg, e922, f_csbbb, f_harrisonc, f_ic4, f_iceington, f_tkd44, f_vilkaz, f_wally, ic4, ic4ml, kosh, mythos, nflimag, rollo, rusik, snp02, soicy, stav, stony, vilkaz, yesm"
+  },
+  {
+   "label": "Watchdog",
+   "status": "ok",
+   "detail": "watchdog ok @ 03:02:52Z"
+  },
+  {
+   "label": "Daemons",
+   "status": "ok",
+   "detail": "14 / 14 up"
+  },
+  {
+   "label": "Route",
+   "status": "ok",
+   "detail": "Mac \u00b7 VPN SE"
+  },
+  {
+   "label": "Stale lots (killed workers)",
+   "status": "warn",
+   "detail": "4 resolved, unbooked: rollo Will AS Nancy-Lorraine win o $33; rollo Will West Ham United FC win  $5; mythos LoL: G2 Esports vs Karmine C $60; cyber Dota 2: Two Move vs Inner Ci $60"
+  }
+ ]
+}
