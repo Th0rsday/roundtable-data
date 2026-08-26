@@ -1,0 +1,1187 @@
+{
+ "generatedAt": "2026-09-19T19:02:06+00:00",
+ "trades": [
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Spread: Georgia (-27.5) \u2014 Arkansas",
+   "entry": 0.52,
+   "now": 0.48,
+   "size": 40.02,
+   "hisSize": 1891.28,
+   "mtm": -4.46,
+   "ageMin": 81,
+   "ts": 1789839751,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Arizona State vs. Kansas \u2014 Arizona State",
+   "entry": 0.79,
+   "now": 0.76,
+   "size": 86.73,
+   "hisSize": 4155.68,
+   "mtm": -4.6,
+   "ageMin": 83,
+   "ts": 1789839632,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:total",
+   "market": "Arizona State vs. Kansas: O/U 44.5 \u2014 Under",
+   "entry": 0.5,
+   "now": 0.47,
+   "size": 23.44,
+   "hisSize": 1101.68,
+   "mtm": -2.25,
+   "ageMin": 106,
+   "ts": 1789838223,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "North Texas vs. Texas State \u2014 Texas State",
+   "entry": 0.81,
+   "now": 0.81,
+   "size": 97.94,
+   "hisSize": 4834.89,
+   "mtm": -1.34,
+   "ageMin": 158,
+   "ts": 1789835098,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Coastal Carolina vs. Delaware \u2014 Coastal Carolina",
+   "entry": 0.55,
+   "now": 0.554,
+   "size": 61.56,
+   "hisSize": 3036.88,
+   "mtm": -1.5,
+   "ageMin": 186,
+   "ts": 1789833427,
+   "targetStatus": "holding",
+   "status": "open"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:ML",
+   "market": "Will FC Internazionale Milano win on 2026-09-19? \u2014 No",
+   "entry": 0.84,
+   "now": 1.0,
+   "size": 111.86,
+   "mtm": 20.02,
+   "ageMin": 91,
+   "ts": 1789842272,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Brighton & Hove Albion FC vs. Arsenal FC: O/U 3.5 \u2014 Under",
+   "entry": 0.45,
+   "now": 1.0,
+   "size": 8.74,
+   "mtm": 10.34,
+   "ageMin": 206,
+   "ts": 1789838076,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:total",
+   "market": "Udinese Calcio vs. Cagliari Calcio: O/U 1.5 \u2014 Over",
+   "entry": 0.17,
+   "now": 0.0,
+   "size": 6.65,
+   "mtm": -7.05,
+   "ageMin": 254,
+   "ts": 1789831307,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:ML",
+   "market": "Will Bologna FC 1909 win on 2026-09-19? \u2014 No",
+   "entry": 0.79,
+   "now": 1.0,
+   "size": 15.39,
+   "mtm": 3.86,
+   "ageMin": 263,
+   "ts": 1789831307,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BUN:total",
+   "market": "Eintracht Frankfurt vs. SC Freiburg: 1st Half O/U 1.5 \u2014 Under",
+   "entry": 0.41,
+   "now": 0.0,
+   "size": 14.19,
+   "mtm": -14.79,
+   "ageMin": 310,
+   "ts": 1789833107,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "CA Osasuna vs. Rayo Vallecano de Madrid: O/U 2.5 \u2014 Under",
+   "entry": 0.83,
+   "now": 1.0,
+   "size": 62.05,
+   "mtm": 11.95,
+   "ageMin": 313,
+   "ts": 1789827701,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BUN:ML",
+   "market": "Will 1. FC K\u00f6ln win on 2026-09-19? \u2014 No",
+   "entry": 0.58,
+   "now": 1.0,
+   "size": 15.6,
+   "mtm": 10.82,
+   "ageMin": 314,
+   "ts": 1789833106,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "CA Osasuna vs. Rayo Vallecano de Madrid: O/U 3.5 \u2014 Over",
+   "entry": 0.17,
+   "now": 0.0,
+   "size": 9.31,
+   "mtm": -9.87,
+   "ageMin": 337,
+   "ts": 1789827700,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "SEA:total",
+   "market": "Udinese Calcio vs. Cagliari Calcio: O/U 2.5 \u2014 Over",
+   "entry": 0.3,
+   "now": 0.0,
+   "size": 14.72,
+   "mtm": -15.46,
+   "ageMin": 342,
+   "ts": 1789831304,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "ELC:ML",
+   "market": "Will Millwall FC win on 2026-09-19? \u2014 No",
+   "entry": 0.86,
+   "now": 1.0,
+   "size": 52.17,
+   "mtm": 7.97,
+   "ageMin": 344,
+   "ts": 1789831904,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BKNBL:ML",
+   "market": "Perth Wildcats vs. South East Melbourne Phoenix \u2014 South East Melbourne Phoenix",
+   "entry": 0.719,
+   "now": 1.0,
+   "size": 133.83,
+   "mtm": 49.46,
+   "ageMin": 377,
+   "ts": 1789833704,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:ML",
+   "market": "Will Tottenham Hotspur FC win on 2026-09-19? \u2014 No",
+   "entry": 0.77,
+   "now": 1.0,
+   "size": 7.9,
+   "mtm": 2.23,
+   "ageMin": 400,
+   "ts": 1789826495,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BKNBL:ML",
+   "market": "Perth Wildcats vs. South East Melbourne Phoenix \u2014 EXIT",
+   "entry": 0.456,
+   "now": 0.48,
+   "size": 8.67,
+   "mtm": 0.11,
+   "ageMin": 408,
+   "ts": 1789820139,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:ML",
+   "market": "Will Rayo Vallecano de Madrid win on 2026-09-19? \u2014 No",
+   "entry": 0.62,
+   "now": 1.0,
+   "size": 6.6,
+   "mtm": 3.86,
+   "ageMin": 416,
+   "ts": 1789827696,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BKNBL:ML",
+   "market": "Melbourne United vs. Adelaide 36ers \u2014 Melbourne United",
+   "entry": 0.633,
+   "now": 0.0,
+   "size": 88.99,
+   "mtm": -91.74,
+   "ageMin": 471,
+   "ts": 1789825292,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BKNBL:ML",
+   "market": "Melbourne United vs. Adelaide 36ers \u2014 EXIT",
+   "entry": 0.795,
+   "now": 0.52,
+   "size": 30.22,
+   "mtm": -11.15,
+   "ageMin": 521,
+   "ts": 1789813357,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "wnbaprobe",
+   "section": "WNBA:ML",
+   "market": "Spread: Golden State Valkyries (-13.5) \u2014 EXIT",
+   "entry": 0.56,
+   "now": 0.32,
+   "size": 21.28,
+   "mtm": -9.72,
+   "ageMin": 946,
+   "ts": 1789787824,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Houston vs. Texas Tech \u2014 Texas Tech",
+   "entry": 0.94,
+   "now": 1.0,
+   "size": 96.96,
+   "mtm": 5.77,
+   "ageMin": 955,
+   "ts": 1789790352,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Minnesota Twins vs. Los Angeles Angels: O/U 7.5 \u2014 Under",
+   "entry": 0.59,
+   "now": 1.0,
+   "size": 11.59,
+   "mtm": 7.71,
+   "ageMin": 987,
+   "ts": 1789792154,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Spread: Miami (FL) (-16.5) \u2014 Wake Forest",
+   "entry": 0.48,
+   "now": 1.0,
+   "size": 18.62,
+   "mtm": 19.47,
+   "ageMin": 997,
+   "ts": 1789789151,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Texas Rangers (-5.5) \u2014 Toronto Blue Jays",
+   "entry": 0.58,
+   "now": 0.0,
+   "size": 7.2,
+   "mtm": -7.42,
+   "ageMin": 999,
+   "ts": 1789788553,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Washington Nationals vs. St. Louis Cardinals: O/U 10.5 \u2014 Under",
+   "entry": 0.51,
+   "now": 1.0,
+   "size": 6.36,
+   "mtm": 5.89,
+   "ageMin": 999,
+   "ts": 1789788551,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Washington Nationals vs. St. Louis Cardinals: O/U 11.5 \u2014 Under",
+   "entry": 0.62,
+   "now": 1.0,
+   "size": 90.24,
+   "mtm": 52.84,
+   "ageMin": 1007,
+   "ts": 1789788551,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Seattle Mariners vs. Colorado Rockies: O/U 10.5 \u2014 Under",
+   "entry": 0.54,
+   "now": 1.0,
+   "size": 25.2,
+   "mtm": 20.63,
+   "ageMin": 1034,
+   "ts": 1789789749,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Seattle Mariners vs. Colorado Rockies: O/U 11.5 \u2014 Under",
+   "entry": 0.663,
+   "now": 1.0,
+   "size": 105.23,
+   "mtm": 50.86,
+   "ageMin": 1035,
+   "ts": 1789789749,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Washington Nationals (-7.5) \u2014 St. Louis Cardinals",
+   "entry": 0.44,
+   "now": 0.0,
+   "size": 51.52,
+   "mtm": -53.6,
+   "ageMin": 1041,
+   "ts": 1789788550,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Philadelphia Phillies vs. New York Mets: O/U 10.5 \u2014 Under",
+   "entry": 0.97,
+   "now": 1.0,
+   "size": 6.79,
+   "mtm": 0.2,
+   "ageMin": 1055,
+   "ts": 1789784346,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Philadelphia Phillies vs. New York Mets \u2014 New York Mets",
+   "entry": 0.89,
+   "now": 1.0,
+   "size": 128.88,
+   "mtm": 14.94,
+   "ageMin": 1056,
+   "ts": 1789784344,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Spread: Miami (FL) (-24.5) \u2014 Wake Forest",
+   "entry": 0.45,
+   "now": 1.0,
+   "size": 10.34,
+   "mtm": 12.23,
+   "ageMin": 1080,
+   "ts": 1789789149,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "wnbaprobe",
+   "section": "WNBA:ML",
+   "market": "New York Liberty vs. Minnesota Lynx \u2014 New York Liberty",
+   "entry": 0.58,
+   "now": 1.0,
+   "size": 30.64,
+   "mtm": 21.26,
+   "ageMin": 1081,
+   "ts": 1789784231,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Spread: Athletics (-1.5) \u2014 Cleveland Guardians",
+   "entry": 0.5,
+   "now": 1.0,
+   "size": 13.0,
+   "mtm": 12.53,
+   "ageMin": 1151,
+   "ts": 1789784343,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Chicago Cubs vs. Cincinnati Reds: O/U 7.5 \u2014 Over",
+   "entry": 0.91,
+   "now": 1.0,
+   "size": 23.51,
+   "mtm": 2.17,
+   "ageMin": 1175,
+   "ts": 1789779424,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Brentford FC vs. Chelsea FC: O/U 2.5 \u2014 Over",
+   "entry": 0.31,
+   "now": 1.0,
+   "size": 8.96,
+   "mtm": 19.5,
+   "ageMin": 1339,
+   "ts": 1789766805,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "LAL:total",
+   "market": "RCD Espanyol de Barcelona vs. Elche CF: O/U 4.5 \u2014 Over",
+   "entry": 0.46,
+   "now": 0.0,
+   "size": 7.56,
+   "mtm": -7.85,
+   "ageMin": 1342,
+   "ts": 1789766805,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "FL1:ML",
+   "market": "Will AS Monaco FC vs. Racing Club de Lens end in a draw? \u2014 No",
+   "entry": 0.92,
+   "now": 1.0,
+   "size": 56.4,
+   "mtm": 4.58,
+   "ageMin": 1344,
+   "ts": 1789765604,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:ML",
+   "market": "Will Brentford FC vs. Chelsea FC end in a draw? \u2014 No",
+   "entry": 0.76,
+   "now": 1.0,
+   "size": 9.32,
+   "mtm": 2.78,
+   "ageMin": 1345,
+   "ts": 1789766205,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Brentford FC vs. Chelsea FC: O/U 1.5 \u2014 Under",
+   "entry": 0.51,
+   "now": 0.0,
+   "size": 14.86,
+   "mtm": -15.39,
+   "ageMin": 1347,
+   "ts": 1789766803,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Brentford FC vs. Chelsea FC: 1st Half O/U 0.5 \u2014 Over",
+   "entry": 0.179,
+   "now": 0.0,
+   "size": 15.83,
+   "mtm": -16.76,
+   "ageMin": 1400,
+   "ts": 1789766803,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:ML",
+   "market": "Will Chelsea FC win on 2026-09-18? \u2014 No",
+   "entry": 0.63,
+   "now": 1.0,
+   "size": 16.27,
+   "mtm": 9.12,
+   "ageMin": 1414,
+   "ts": 1789766204,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "BUN:total",
+   "market": "FC Bayern M\u00fcnchen vs. 1. FC Union Berlin: O/U 4.5 \u2014 Over",
+   "entry": 0.48,
+   "now": 1.0,
+   "size": 25.54,
+   "mtm": 26.72,
+   "ageMin": 1461,
+   "ts": 1789764402,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "wnbaprobe",
+   "section": "WNBA:ML",
+   "market": "Phoenix Mercury vs. Portland Fire \u2014 Phoenix Mercury",
+   "entry": 0.805,
+   "now": 1.0,
+   "size": 228.49,
+   "mtm": 52.16,
+   "ageMin": 2339,
+   "ts": 1789707320,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Boston Red Sox vs. Texas Rangers \u2014 Boston Red Sox",
+   "entry": 0.751,
+   "now": 1.0,
+   "size": 14.63,
+   "mtm": 4.59,
+   "ageMin": 2411,
+   "ts": 1789702412,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:ML",
+   "market": "Spread: Bills (-16.5) \u2014 Lions",
+   "entry": 0.614,
+   "now": 1.0,
+   "size": 69.83,
+   "mtm": 41.92,
+   "ageMin": 2421,
+   "ts": 1789703667,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Boston Red Sox vs. Texas Rangers: O/U 5.5 \u2014 Under",
+   "entry": 0.65,
+   "now": 0.0,
+   "size": 6.7,
+   "mtm": -6.87,
+   "ageMin": 2467,
+   "ts": 1789701212,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "CFB:ML",
+   "market": "Syracuse vs. Pittsburgh \u2014 Pittsburgh",
+   "entry": 0.848,
+   "now": 1.0,
+   "size": 32.1,
+   "mtm": 5.39,
+   "ageMin": 2485,
+   "ts": 1789701814,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "wnbaprobe",
+   "section": "WNBA:ML",
+   "market": "Los Angeles Sparks vs. Dallas Wings \u2014 Dallas Wings",
+   "entry": 0.744,
+   "now": 1.0,
+   "size": 164.64,
+   "mtm": 53.75,
+   "ageMin": 2488,
+   "ts": 1789699329,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Lions vs. Bills: O/U 68.5 \u2014 Under",
+   "entry": 0.59,
+   "now": 0.0,
+   "size": 35.38,
+   "mtm": -36.42,
+   "ageMin": 2503,
+   "ts": 1789709722,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:ML",
+   "market": "Spread: Bills (-21.5) \u2014 Bills",
+   "entry": 0.42,
+   "now": 0.0,
+   "size": 7.48,
+   "mtm": -7.79,
+   "ageMin": 2512,
+   "ts": 1789703667,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Boston Red Sox vs. Texas Rangers: O/U 8.5 \u2014 Under",
+   "entry": 0.57,
+   "now": 1.0,
+   "size": 10.96,
+   "mtm": 7.93,
+   "ageMin": 2518,
+   "ts": 1789702412,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "wnbaprobe",
+   "section": "WNBA:ML",
+   "market": "Spread: Atlanta Dream (-15.5) \u2014 Atlanta Dream",
+   "entry": 0.58,
+   "now": 1.0,
+   "size": 40.8,
+   "mtm": 28.31,
+   "ageMin": 2560,
+   "ts": 1789696926,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:total",
+   "market": "Seattle Mariners vs. Los Angeles Angels: O/U 8.5 \u2014 EXIT",
+   "entry": 0.51,
+   "now": 0.44,
+   "size": 8.16,
+   "mtm": -1.4,
+   "ageMin": 3832,
+   "ts": 1789614701,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Milwaukee Brewers vs. Pittsburgh Pirates \u2014 EXIT",
+   "entry": 0.553,
+   "now": 0.64,
+   "size": 2.76,
+   "mtm": 0.35,
+   "ageMin": 3952,
+   "ts": 1789607464,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "MLB:ML",
+   "market": "Milwaukee Brewers vs. Pittsburgh Pirates \u2014 EXIT",
+   "entry": 0.553,
+   "now": 0.63,
+   "size": 18.79,
+   "mtm": 2.06,
+   "ageMin": 3953,
+   "ts": 1789607429,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Broncos vs. Chiefs: O/U 45.5 \u2014 Over",
+   "entry": 0.442,
+   "now": 0.0,
+   "size": 64.19,
+   "mtm": -66.75,
+   "ageMin": 6777,
+   "ts": 1789450045,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Leeds United FC vs. Newcastle United FC: O/U 4.5 \u2014 EXIT",
+   "entry": 0.52,
+   "now": 0.81,
+   "size": 5.2,
+   "mtm": 2.79,
+   "ageMin": 7096,
+   "ts": 1789418836,
+   "targetStatus": "exited",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Cowboys vs. Giants: O/U 46.5 \u2014 Under",
+   "entry": 0.64,
+   "now": 0.0,
+   "size": 39.6,
+   "mtm": -40.63,
+   "ageMin": 8206,
+   "ts": 1789363522,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Cowboys vs. Giants: O/U 45.5 \u2014 Over",
+   "entry": 0.404,
+   "now": 1.0,
+   "size": 33.53,
+   "mtm": 47.94,
+   "ageMin": 8224,
+   "ts": 1789363522,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Packers vs. Vikings: O/U 54.5 \u2014 Under",
+   "entry": 0.76,
+   "now": 0.0,
+   "size": 60.06,
+   "mtm": -61.1,
+   "ageMin": 8444,
+   "ts": 1789343691,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Packers vs. Vikings: O/U 47.5 \u2014 Under",
+   "entry": 0.45,
+   "now": 0.0,
+   "size": 18.53,
+   "mtm": -19.26,
+   "ageMin": 8446,
+   "ts": 1789349701,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "nflboost",
+   "section": "NFL:total",
+   "market": "Ravens vs. Colts: O/U 63.5 \u2014 Over",
+   "entry": 0.67,
+   "now": 1.0,
+   "size": 83.49,
+   "mtm": 39.14,
+   "ageMin": 8673,
+   "ts": 1789337086,
+   "targetStatus": "unknown",
+   "status": "settled"
+  },
+  {
+   "origin": "imaginary",
+   "section": "EPL:total",
+   "market": "Manchester United FC vs. Manchester City FC: O/U 1.5 \u2014 EXIT",
+   "entry": 0.67,
+   "now": 0.43,
+   "size": 21.44,
+   "mtm": -8.24,
+   "ageMin": 8750,
+   "ts": 1789319616,
+   "targetStatus": "exited",
+   "status": "settled"
+  }
+ ],
+ "sections": [
+  {
+   "section": "MLB:total",
+   "realized7d": 244.72
+  },
+  {
+   "section": "WNBA:ML",
+   "realized7d": 145.77
+  },
+  {
+   "section": "CFB:ML",
+   "realized7d": 126.84
+  },
+  {
+   "section": "LAL:total",
+   "realized7d": 94.16
+  },
+  {
+   "section": "ELC:ML",
+   "realized7d": 67.46
+  },
+  {
+   "section": "NFL:ML",
+   "realized7d": 34.12
+  },
+  {
+   "section": "FL1:ML",
+   "realized7d": 14.61
+  },
+  {
+   "section": "BUN:total",
+   "realized7d": 13.66
+  },
+  {
+   "section": "SEA:ML",
+   "realized7d": 10.14
+  },
+  {
+   "section": "MLS:ML",
+   "realized7d": 3.19
+  },
+  {
+   "section": "MLB:ML",
+   "realized7d": -7.39
+  },
+  {
+   "section": "EPL:ML",
+   "realized7d": -13.07
+  },
+  {
+   "section": "SEA:total",
+   "realized7d": -15.25
+  },
+  {
+   "section": "CFB:total",
+   "realized7d": -20.86
+  },
+  {
+   "section": "LAL:ML",
+   "realized7d": -42.62
+  },
+  {
+   "section": "BUN:ML",
+   "realized7d": -42.63
+  },
+  {
+   "section": "EPL:total",
+   "realized7d": -44.92
+  },
+  {
+   "section": "BKNBL:ML",
+   "realized7d": -53.31
+  },
+  {
+   "section": "NFL:total",
+   "realized7d": -137.09
+  }
+ ],
+ "sectionsByOrigin": {
+  "imaginary": [
+   {
+    "section": "MLB:total",
+    "realized7d": 244.72
+   },
+   {
+    "section": "CFB:ML",
+    "realized7d": 126.84
+   },
+   {
+    "section": "LAL:total",
+    "realized7d": 94.16
+   },
+   {
+    "section": "ELC:ML",
+    "realized7d": 67.46
+   },
+   {
+    "section": "FL1:ML",
+    "realized7d": 14.61
+   },
+   {
+    "section": "BUN:total",
+    "realized7d": 13.66
+   },
+   {
+    "section": "SEA:ML",
+    "realized7d": 10.14
+   },
+   {
+    "section": "MLS:ML",
+    "realized7d": 3.19
+   },
+   {
+    "section": "MLB:ML",
+    "realized7d": -7.39
+   },
+   {
+    "section": "EPL:ML",
+    "realized7d": -13.07
+   },
+   {
+    "section": "SEA:total",
+    "realized7d": -15.25
+   },
+   {
+    "section": "CFB:total",
+    "realized7d": -20.86
+   },
+   {
+    "section": "LAL:ML",
+    "realized7d": -42.62
+   },
+   {
+    "section": "BUN:ML",
+    "realized7d": -42.63
+   },
+   {
+    "section": "EPL:total",
+    "realized7d": -44.92
+   },
+   {
+    "section": "BKNBL:ML",
+    "realized7d": -53.31
+   }
+  ],
+  "nflboost": [
+   {
+    "section": "NFL:ML",
+    "realized7d": 34.12
+   },
+   {
+    "section": "NFL:total",
+    "realized7d": -137.09
+   }
+  ],
+  "wnbaprobe": [
+   {
+    "section": "WNBA:ML",
+    "realized7d": 145.77
+   }
+  ]
+ },
+ "bench": [
+  {
+   "name": "swnba",
+   "detail": "wnba:total shadow (no-gate)",
+   "fillsDone": 189,
+   "fillsNeeded": 100,
+   "metric": "now +$9",
+   "wins": 95,
+   "losses": 94,
+   "lifetime": 8.58,
+   "openN": 0,
+   "paperNow": 8.58,
+   "profile": null,
+   "trades": [
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "New York Liberty vs. Minnesota Lynx: O/U 176.5 \u2014 Over",
+     "entry": 0.43,
+     "now": 0.0,
+     "size": 82.44,
+     "mtm": -85.82,
+     "ageMin": 1076,
+     "ts": 1789784333,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "New York Liberty vs. Minnesota Lynx: O/U 177.5 \u2014 Over",
+     "entry": 0.92,
+     "now": 0.0,
+     "size": 6.19,
+     "mtm": -6.23,
+     "ageMin": 1076,
+     "ts": 1789784333,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Los Angeles Sparks vs. Dallas Wings: O/U 176.5 \u2014 Over",
+     "entry": 0.54,
+     "now": 0.0,
+     "size": 69.09,
+     "mtm": -71.38,
+     "ageMin": 2479,
+     "ts": 1789708674,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Phoenix Mercury vs. Portland Fire: O/U 172.5 \u2014 Under",
+     "entry": 0.31,
+     "now": 0.0,
+     "size": 84.74,
+     "mtm": -88.95,
+     "ageMin": 2426,
+     "ts": 1789706873,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Phoenix Mercury vs. Portland Fire: O/U 175.5 \u2014 Under",
+     "entry": 0.372,
+     "now": 0.0,
+     "size": 18.64,
+     "mtm": -19.48,
+     "ageMin": 2424,
+     "ts": 1789706873,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Las Vegas Aces vs. Seattle Storm: O/U 173.5 \u2014 Over",
+     "entry": 0.85,
+     "now": 1.0,
+     "size": 4.25,
+     "mtm": 0.7,
+     "ageMin": 2378,
+     "ts": 1789706273,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Los Angeles Sparks vs. Dallas Wings: O/U 177.5 \u2014 Over",
+     "entry": 0.543,
+     "now": 0.0,
+     "size": 140.86,
+     "mtm": -145.48,
+     "ageMin": 2513,
+     "ts": 1789699668,
+     "targetStatus": "unknown",
+     "status": "settled"
+    },
+    {
+     "origin": "swnba",
+     "section": "WNBA:total",
+     "market": "Connecticut Sun vs. Atlanta Dream: O/U 169.5 \u2014 Over",
+     "entry": 0.56,
+     "now": 0.0,
+     "size": 2.8,
+     "mtm": -2.89,
+     "ageMin": 2504,
+     "ts": 1789697265,
+     "targetStatus": "unknown",
+     "status": "settled"
+    }
+   ]
+  }
+ ],
+ "origins": [
+  {
+   "origin": "wnbaprobe",
+   "lifetimeRealized": 1289.07,
+   "wins": 71,
+   "losses": 29,
+   "realized7d": 145.77,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 256,
+   "sinceTs": 1785896384
+  },
+  {
+   "origin": "nflboost",
+   "lifetimeRealized": -526.61,
+   "wins": 11,
+   "losses": 14,
+   "realized7d": -102.96,
+   "openMtm": 0.0,
+   "openCount": 0,
+   "fills": 56,
+   "sinceTs": 1787458313
+  },
+  {
+   "origin": "imaginary",
+   "lifetimeRealized": -1993.66,
+   "wins": 1317,
+   "losses": 876,
+   "realized7d": 334.72,
+   "openMtm": -14.15,
+   "openCount": 5,
+   "fills": 4481,
+   "sinceTs": 1782014293
+  }
+ ],
+ "accountingDrift": []
+}

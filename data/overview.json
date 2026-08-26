@@ -1,0 +1,120 @@
+{
+ "generatedAt": "2026-09-19T19:02:06+00:00",
+ "bridges": [
+  {
+   "key": "tarnished",
+   "name": "Tarnished",
+   "label": "0xDdFc",
+   "cash": 692.55,
+   "mtm": 5.61,
+   "total": 698.16,
+   "botMtm": 113.32,
+   "venueMtm": 5.61,
+   "dayDelta": -6.41,
+   "openCount": 1,
+   "equity30d": [
+    1985.78,
+    1880.43,
+    1749.78,
+    1733.92,
+    1585.5,
+    684.61,
+    658.53,
+    489.82,
+    1103.96,
+    1112.66,
+    1106.4,
+    799.13,
+    770.37,
+    605.21,
+    716.09,
+    760.05,
+    577.7,
+    693.59,
+    650.04,
+    684.21,
+    830.58,
+    683.09,
+    571.4,
+    612.63,
+    343.83,
+    865.1,
+    863.18,
+    824.22,
+    704.57,
+    698.16
+   ]
+  },
+  {
+   "key": "thorsday",
+   "name": "Th0rsday",
+   "label": "0x17d7",
+   "cash": 2702.24,
+   "mtm": 271.82,
+   "total": 2974.06,
+   "botMtm": 302.4,
+   "venueMtm": 271.82,
+   "dayDelta": -54.87,
+   "openCount": 5,
+   "equity30d": [
+    2312.8,
+    1925.07,
+    2308.34,
+    2236.49,
+    1078.15,
+    1642.68,
+    1600.44,
+    1874.28,
+    2172.82,
+    2307.79,
+    2505.67,
+    2129.13,
+    2029.2,
+    1953.71,
+    2146.89,
+    1953.91,
+    2300.14,
+    2454.08,
+    3005.42,
+    2808.43,
+    2566.45,
+    2629.04,
+    2630.13,
+    2693.61,
+    2753.09,
+    2524.14,
+    2560.27,
+    2841.91,
+    3028.93,
+    2974.06
+   ]
+  }
+ ],
+ "health": [
+  {
+   "label": "Killswitches",
+   "status": "bad",
+   "detail": "cyber TRIPPED, danngl TRIPPED, mythos TRIPPED, rollo TRIPPED, snp02 TRIPPED, stav TRIPPED"
+  },
+  {
+   "label": "Watchdog",
+   "status": "ok",
+   "detail": "watchdog ok @ 18:59:04Z"
+  },
+  {
+   "label": "Daemons",
+   "status": "ok",
+   "detail": "24 / 24 up"
+  },
+  {
+   "label": "Route",
+   "status": "ok",
+   "detail": "Mac \u00b7 VPN SE"
+  },
+  {
+   "label": "Stale lots (killed workers)",
+   "status": "warn",
+   "detail": "4 resolved, unbooked: rollo Will AS Nancy-Lorraine win o $33; rollo Will West Ham United FC win  $5; mythos LoL: G2 Esports vs Karmine C $60; cyber Dota 2: Two Move vs Inner Ci $60"
+  }
+ ]
+}
