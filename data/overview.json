@@ -1,0 +1,120 @@
+{
+ "generatedAt": "2026-09-26T21:35:38+00:00",
+ "bridges": [
+  {
+   "key": "tarnished",
+   "name": "Tarnished",
+   "label": "0xDdFc",
+   "cash": 586.81,
+   "mtm": 134.76,
+   "total": 721.57,
+   "botMtm": 248.38,
+   "venueMtm": 134.76,
+   "dayDelta": 3.25,
+   "openCount": 30,
+   "equity30d": [
+    489.82,
+    1103.96,
+    1112.66,
+    1106.4,
+    799.13,
+    770.37,
+    605.21,
+    716.09,
+    760.05,
+    577.7,
+    693.59,
+    650.04,
+    684.21,
+    830.58,
+    683.09,
+    571.4,
+    612.63,
+    343.83,
+    865.1,
+    863.18,
+    824.22,
+    704.57,
+    698.17,
+    686.76,
+    692.41,
+    687.84,
+    688.53,
+    683.5,
+    718.32,
+    721.57
+   ]
+  },
+  {
+   "key": "thorsday",
+   "name": "Th0rsday",
+   "label": "0x17d7",
+   "cash": 1250.17,
+   "mtm": 114.59,
+   "total": 1364.76,
+   "botMtm": 104.27,
+   "venueMtm": 114.59,
+   "dayDelta": -135.98,
+   "openCount": 5,
+   "equity30d": [
+    1874.28,
+    2172.82,
+    2307.79,
+    2505.67,
+    2129.13,
+    2029.2,
+    1953.71,
+    2146.89,
+    1953.91,
+    2300.14,
+    2454.08,
+    3005.42,
+    2808.43,
+    2566.45,
+    2629.04,
+    2630.13,
+    2693.61,
+    2753.09,
+    2524.14,
+    2560.27,
+    2841.91,
+    3028.93,
+    2683.22,
+    2539.09,
+    2382.09,
+    1924.35,
+    2007.37,
+    1495.76,
+    1535.93,
+    1364.76
+   ]
+  }
+ ],
+ "health": [
+  {
+   "label": "Killswitches",
+   "status": "bad",
+   "detail": "L_wally TRIPPED, S_wally TRIPPED, b8c8 TRIPPED, cyber TRIPPED, danngl TRIPPED, diigg TRIPPED, e922 TRIPPED, f_iceington TRIPPED, f_tkd44 TRIPPED, ic4 TRIPPED, ic4ml TRIPPED, kosh TRIPPED, mythos TRIPPED, nflimag TRIPPED, rollo TRIPPED, rusik TRIPPED, snp02 TRIPPED, soicy TRIPPED, stav TRIPPED, stony TRIPPED, vilkaz TRIPPED, yesm TRIPPED"
+  },
+  {
+   "label": "Watchdog",
+   "status": "ok",
+   "detail": "watchdog ok @ 21:30:56Z"
+  },
+  {
+   "label": "Daemons",
+   "status": "ok",
+   "detail": "15 / 15 up"
+  },
+  {
+   "label": "Route",
+   "status": "ok",
+   "detail": "Mac \u00b7 VPN SE"
+  },
+  {
+   "label": "Stale lots (killed workers)",
+   "status": "warn",
+   "detail": "4 resolved, unbooked: rollo Will AS Nancy-Lorraine win o $33; rollo Will West Ham United FC win  $5; mythos LoL: G2 Esports vs Karmine C $60; cyber Dota 2: Two Move vs Inner Ci $60"
+  }
+ ]
+}
